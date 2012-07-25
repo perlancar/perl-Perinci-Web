@@ -64,8 +64,8 @@ L<Perinci::Access::HTTP::Server>.
 
 L<Perinci>, L<Rinci>, L<Riap>.
 
-L<Perinci::CmdLine>. This is not a command-line application framework and not a
-web application framework, but Perinci::Web is created in the same spirit as
-this module.
+L<Perinci::CmdLine>. This is a command-line application framework and not a web
+application framework, but Perinci::Web is created in the same spirit as this
+module.
 
 =cut
