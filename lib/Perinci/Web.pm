@@ -22,10 +22,6 @@ make converting/using them in a web application to be as easy as possible.
 
 It is not implemented yet.
 
-This module uses L<Log::Any> and L<Log::Any::App> for logging.
-
-This module uses L<Moo> for OO.
-
 
 =head1 ATTRIBUTES
 
